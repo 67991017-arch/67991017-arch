@@ -23,7 +23,7 @@
 
 <p align="left">
   <img src="assets/potemkin-buster-elphelt.gif" width="400">
-  <img src="assets/vemom-venom-ggst.gif" width="400">
+  <img src="assets/venom-venom-ggst.gif" width="400">
 </p>
 <p align="right">
   <img src="assets/eddie-guilty-gear.gif" width="200">
