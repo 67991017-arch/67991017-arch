@@ -25,7 +25,7 @@
   <source srcset="https://raw.githubusercontent.com/67991017-arch/repository_name/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
   <img src="https://raw.githubusercontent.com/67991017-arch/repository_name/main/output/stats_commits.svg">
 </picture>
-
+---
 <p align="left">
   <img src="assets/potemkin-buster-elphelt.gif" width="325">
 </p>
