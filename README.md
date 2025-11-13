@@ -25,7 +25,7 @@
   <img src="assets/potemkin-buster-elphelt.gif" width="325">
   <img src="assets/venom-venom-ggst.gif" width="250">
 </p>
-<p align="left">
+<p align="right">
   <img src="assets/eddie-guilty-gear.gif" width="200">
 </p>
 
