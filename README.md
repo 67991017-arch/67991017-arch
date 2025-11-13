@@ -21,11 +21,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=67991017-arch&show_icons=true&locale=en" alt="67991017-arch" width="600"/></p>
 
-<p align="right">
+<p align="left">
   <img src="assets/potemkin-buster-elphelt.gif" width="325">
   <img src="assets/venom-venom-ggst.gif" width="250">
 </p>
-<p align="right">
+<p align="left">
   <img src="assets/eddie-guilty-gear.gif" width="200">
 </p>
 
