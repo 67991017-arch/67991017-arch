@@ -27,7 +27,7 @@
 </picture>
 <h1 align="center">
   Lyrics of the day
-</h1>
+</h1>h>
 <p align="center"> 
   Cruel inequality
 (Paves way for our future)
