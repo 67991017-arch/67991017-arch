@@ -21,24 +21,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=67991017-arch&show_icons=true&locale=en" alt="67991017-arch" width="600"color=/></p>
 
-<p>
 <picture>
-  <source srcset="https://github.com/67991017-arch/github_stats/blob/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://github.com/67991017-arch/github_stats/blob/main/output/stats_commits.svg">
+  <source srcset="https://raw.githubusercontent.com/67991017-arch/repository_name/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/67991017-arch/repository_name/main/output/stats_commits.svg">
 </picture>
-<picture>
-  <source srcset="https://github.com/67991017-arch/github_stats/blob/main/output/stats_langs.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://github.com/levvolkov/github_stats/blob/main/output/stats_langs.svg">
-</picture>
-<picture>
-  <source srcset="https://github.com/67991017-arch/github_stats/blob/main/output/stats_general.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://github.com/67991017-arch/github_stats/blob/main/output/stats_general.svg">
-</picture>
-<picture>
-  <source srcset="https://github.com/67991017-arch/github_stats/blob/main/output/stats_visitors.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://github.com/67991017-arch/github_stats/blob/main/output/stats_visitors.svg">
-</picture>
-</p>
 
 <p align="left">
   <img src="assets/potemkin-buster-elphelt.gif" width="325">
