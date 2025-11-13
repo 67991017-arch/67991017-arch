@@ -25,8 +25,17 @@
   <source srcset="https://raw.githubusercontent.com/67991017-arch/repository_name/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
   <img src="https://raw.githubusercontent.com/67991017-arch/repository_name/main/output/stats_commits.svg">
 </picture>
-<h3 align="center">
+<h1 align="center">
   Lyrics of the day
+  Cruel inequality
+(Paves way for our future)
+A black and grey system
+Always dressed to impress
+People drown in delusion
+Without reaching for truth
+Thorned shield in the hand the troops
+March to oppress the youth
+
 <p align="left">
   <img src="assets/potemkin-buster-elphelt.gif" width="325">
 </p>
