@@ -30,7 +30,7 @@
 </h1>
 
 
-<p align="center"> 
+<p align="center"width="500"height="400"> 
   Cruel inequality
 (Paves way for our future)
 A black and grey system
