@@ -23,7 +23,7 @@
 
 <p>
 <picture>
-  <source srcset="https://github.com/levvolkov/github_stats/blob/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github.com/67991017-arch/github_stats/blob/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
   <img src="https://github.com/67991017-arch/github_stats/blob/main/output/stats_commits.svg">
 </picture>
 <picture>
