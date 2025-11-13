@@ -27,6 +27,8 @@
 </picture>
 <h1 align="center">
   Lyrics of the day
+<p/>
+<p align="center"> 
   Cruel inequality
 (Paves way for our future)
 A black and grey system
@@ -35,7 +37,7 @@ People drown in delusion
 Without reaching for truth
 Thorned shield in the hand the troops
 March to oppress the youth
-
+</p>
 <p align="left">
   <img src="assets/potemkin-buster-elphelt.gif" width="325">
 </p>
